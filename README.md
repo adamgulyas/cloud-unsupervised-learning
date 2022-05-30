@@ -31,4 +31,4 @@ pip install scikit-learn==0.24.2
 
 ### Run
 
-Use Jupyter Lab, Google Colab, or any other Jupyter Notebook editor to run the code.
+Run the program using your Jupyter Notebook editor of choice.

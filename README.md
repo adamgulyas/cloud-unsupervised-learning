@@ -1,4 +1,4 @@
-# Classifying Cryptocurrencies with PCA and K-means
+# Classifying Cryptocurrencies with PCA and K-means Clustering
 
 ## Summary
 

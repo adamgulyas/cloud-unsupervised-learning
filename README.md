@@ -13,7 +13,7 @@ Principal Component Analysis is used to reduce the dimensions of features in the
 Requires an [Anaconda](https://www.anaconda.com/products/distribution) virtual environment running Python >= 3.8.
 
 Activate your Anaconda virtual environment.
-```shell
+```sh
 conda activate <env>
 ```
 
@@ -21,7 +21,7 @@ conda activate <env>
 
 These installations are required to run the analysis. Newer package versions can be used, but be aware that library updates may cause code errors in the notebook.
 
-```shell
+```sh
 pip install numpy==1.20.3
 pip install pandas==1.3.4
 pip install matplotlib==3.4.3
